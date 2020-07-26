@@ -1,2 +1,2 @@
 # DotnetProject
-A simple project that create and consume a web service to provide a person information, using ASP.NET, EntityFramework and SQLServer.
+A simple project that create and consume a web service wich provide a person information. We use ASP.NET, EntityFramework and SQLServer.
